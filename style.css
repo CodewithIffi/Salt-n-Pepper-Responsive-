@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'appercu';
+    src: url(Fonts/Apercu\ Light.otf);
+}
+
+@font-face {
+    font-family: 'futurak';
+    src: url(Fonts/futurak.ttf);
+}
+
+@font-face {
+    font-family: 'butler';
+    src: url(Fonts/Butler_Bold_Stencil.otf);
+}
+:root{
+    --red:#f42625;
+    --white:#ffffff;
+    --black:#000000;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#logo-img{
+    padding-left: 30px;
+    width: 165px;
+    
+}
+.btn{
+    display: none;
+}
+
+
+.welcomeparent {
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+}
+
+.salten>h3 {
+    font-size: 35px;
+    font-weight: lighter;
+    padding-top: 70px;
+    margin: 0px;
+
+
+}
+
+.salten>h3>span {
+    font-family: 'futurak';
+    font-size: 50px;
+
+}
+
+.salten p {
+    color: #AFAFAF;
+    margin-top: 0px;
+    font-size: 16px;
+
+}
+.res-franchises>h3>span {
+    font-family: 'futurak';
+    font-size: 50px;
+}
+.res-franchises>h3{
+ font-family:'butler' ;
+}
+
+.isl_red {
+    color: #ED1C24;
+    font-family:'appercu' ;
+    letter-spacing: 8px;
+    font-weight: lighter;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 0px;
+    margin-bottom: -15px;
+}
+.father>h2>span{
+    font-family:'futurak' ;
+}
+
+.salten03 span {
+    font-family: 'futurak';
+    font-size: 52px;
+    letter-spacing: 2px;
+
+}
