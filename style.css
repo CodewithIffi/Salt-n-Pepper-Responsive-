@@ -96,3 +96,8 @@
 .img-fluid{
     margin: auto;
 }
+.add_head>h3>span {
+    font-family:'futurak';
+    font-size: 52px;
+    letter-spacing: 2px;
+}
