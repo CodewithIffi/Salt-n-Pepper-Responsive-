@@ -88,3 +88,11 @@
     letter-spacing: 2px;
 
 }
+.village_Salten>h3>span {
+    font-family:'futurak';
+    font-size: 52px;
+    letter-spacing: 2px;
+}
+.img-fluid{
+    margin: auto;
+}
